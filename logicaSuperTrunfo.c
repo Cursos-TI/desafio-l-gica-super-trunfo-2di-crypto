@@ -169,7 +169,9 @@ int main() {
         }
         printf("\n");
 
-        printf("======FIM DE JOGO======");
+        printf("======FIM DE JOGO======\n");
+
+        printf("-------------------------\n");
     
         return 0;
     }

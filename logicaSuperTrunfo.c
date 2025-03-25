@@ -167,6 +167,9 @@ int main() {
         } else {
             printf("EMPATE! AMBAS AS CIDADES TÊM A MESMA POPULAÇÃO.\n");
         }
+        printf("\n");
+
+        printf("======FIM DE JOGO======");
     
         return 0;
     }
